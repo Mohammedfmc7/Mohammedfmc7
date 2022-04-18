@@ -2,7 +2,9 @@
 - 👀 I’m interested in python, java, and data analysis.
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Twitter : @Mohammedfmc7
+- Email: mohammedalmansour.f@gmail.com
 
 <!---
 Mohammedfmc7/Mohammedfmc7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

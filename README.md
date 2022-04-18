@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohammedfmc7
 - 👀 I’m interested in python, java, and data analysis.
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - Twitter : @Mohammedfmc7
 - Email: mohammedalmansour.f@gmail.com
